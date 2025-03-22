@@ -118,10 +118,17 @@ Below is the README file with the sections in the same order as provided, includ
 
 ### Booking Analytics Dashboard
 
+![analytics dashboard](https://github.com/user-attachments/assets/8109f225-0e15-4606-9845-089200b1b9df)
+
 - **Visualization:**  
   - Monthly revenue trend visualization, cancellation rate, average booking price, and top booking countries are displayed on the dashboard.
 
 ### Booking Data Q&A
+
+![1](https://github.com/user-attachments/assets/50a6404c-c50f-415e-a588-001501ccbb54)
+![2](https://github.com/user-attachments/assets/2f73992d-63f0-49d2-ad2b-84fdddd78464)
+![3](https://github.com/user-attachments/assets/2ecfd6fe-481a-4cd5-a863-75a0c04e791a)
+![4](https://github.com/user-attachments/assets/9866221e-fdf3-45e7-bbdc-e2669974ac82)
 
 - **Interactive Interface:**  
   - Ask questions in natural language and receive context-driven answers using the RAG system.
